@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaLibros" id="ListaLibros0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Libro">
+     <void property="autor">
+      <string>Langston Hughes</string>
+     </void>
+     <void property="codigo">
+      <string>546ki</string>
+     </void>
+     <void property="coste">
+      <double>25.0</double>
+     </void>
+     <void property="genero">
+      <string>Literatura</string>
+     </void>
+     <void property="numPaginas">
+      <int>342</int>
+     </void>
+     <void property="prestamo">
+      <boolean>true</boolean>
+     </void>
+     <void property="titulo">
+      <string>Harlem</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Libro">
+     <void property="autor">
+      <string>Eza Boto</string>
+     </void>
+     <void property="codigo">
+      <string>346cd</string>
+     </void>
+     <void property="coste">
+      <double>17.19</double>
+     </void>
+     <void property="genero">
+      <string>Literatura</string>
+     </void>
+     <void property="numPaginas">
+      <int>238</int>
+     </void>
+     <void property="titulo">
+      <string>Cocumbo, el estudiante negro</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Libro">
+     <void property="autor">
+      <string>Henry Dumas</string>
+     </void>
+     <void property="codigo">
+      <string>873op</string>
+     </void>
+     <void property="coste">
+      <double>42.99</double>
+     </void>
+     <void property="genero">
+      <string>Economía</string>
+     </void>
+     <void property="numPaginas">
+      <int>273</int>
+     </void>
+     <void property="titulo">
+      <string>La economia del mundo actual</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Libro">
+     <void property="autor">
+      <string>Mike Dallas</string>
+     </void>
+     <void property="codigo">
+      <string>265rt</string>
+     </void>
+     <void property="coste">
+      <double>27.8</double>
+     </void>
+     <void property="genero">
+      <string>Ciencia</string>
+     </void>
+     <void property="numPaginas">
+      <int>369</int>
+     </void>
+     <void property="prestamo">
+      <boolean>true</boolean>
+     </void>
+     <void property="titulo">
+      <string>La geometria moderna</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Libro">
+     <void property="autor">
+      <string>Gui Callagan</string>
+     </void>
+     <void property="codigo">
+      <string>754kj</string>
+     </void>
+     <void property="coste">
+      <double>14.17</double>
+     </void>
+     <void property="genero">
+      <string>Geografía</string>
+     </void>
+     <void property="numPaginas">
+      <int>411</int>
+     </void>
+     <void property="titulo">
+      <string>Los oceanos</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Libro">
+     <void property="autor">
+      <string>John  Smith</string>
+     </void>
+     <void property="codigo">
+      <string>872ru</string>
+     </void>
+     <void property="coste">
+      <double>35.0</double>
+     </void>
+     <void property="genero">
+      <string>Ciencia</string>
+     </void>
+     <void property="numPaginas">
+      <int>265</int>
+     </void>
+     <void property="titulo">
+      <string>Pitagoras</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
